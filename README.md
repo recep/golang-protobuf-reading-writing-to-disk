@@ -1,1 +1,1 @@
-# golang-protobuf-reading-writing-to-disk
+# Go-Protobuf write to file and read from file example. 
